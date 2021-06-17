@@ -9,7 +9,7 @@ License: UNKNOWN
 Description: You can customize it a little bit by using task shedular so that you can get to learn a new word (every let`s say one hour)
 Keywords: python,random-words,vocab,vocabulary,notification
 Platform: UNKNOWN
-Classifier: Development Status :: 1 - Beta
+Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
