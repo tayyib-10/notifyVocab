@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'a small library that notifies you of a new word and its meaning every time you run it'
 LONG_DESCRIPTION = 'You can customize it a little bit by using task shedular so that you can get to learn a new word (every let`s say one hour)'
 

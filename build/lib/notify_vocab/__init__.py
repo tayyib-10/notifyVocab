@@ -1,1 +1,1 @@
-from notification import notifyVocab
+from notify_vocab.notification import notifyVocab
